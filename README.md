@@ -21,16 +21,11 @@
 - 🔬 **科研学习**：目前在 **王皓老师** 指导下开展学习与学术探索。
 - 🌐 **个人主页**：[https://caiweike.github.io](https://caiweike.github.io)
 
-### 🔬 学术与研究兴趣 (Research Interests)
+### 🔬 学术与研究兴趣
 
-结合信计与纯数学的理论底座，我目前主要关注**人工智能、深度学习与大模型**的以下前沿子方向：
-
-- **大模型数学推理与后训练 (LLM Reasoning & Post-Training)**
-  - 复杂多步逻辑与数学自动解题、思维链机制 (Chain-of-Thought)、过程监督 (Process Reward Models, PRM) 与强化学习对齐。
-- **深度学习基础理论与最优化 (Deep Learning Theory & Optimization)**
-  - 非凸优化算法动力学、损失曲面几何特征、过参数化神经网络的泛化边界与表征机制。
-- **科学智能 (AI for Science & Scientific ML)**
-  - 物理信息神经网络 (PINNs)、神经算子 (Neural Operators) 与偏微分方程 (PDE) 的高维深度数值求解。
+- 人工智能 (Artificial Intelligence)
+- 深度学习 (Deep Learning)
+- 大模型 (Large Language Models) 
 
 ---
 
@@ -47,14 +42,9 @@ I am a 2024-cohort undergraduate student majoring in **Information and Computing
 
 ### 🔬 Academic & Research Interests
 
-Leveraging a solid background in mathematical analysis and computing, my research primarily focuses on concrete challenges across **AI, Deep Learning, and Large Language Models**:
-
-- **LLM Reasoning & Post-Training Alignment**
-  - Complex mathematical problem solving, Chain-of-Thought (CoT) reasoning, Process Reward Models (PRMs), and reinforcement learning for verification & search.
-- **Deep Learning Theory & Optimization Foundations**
-  - Non-convex optimization dynamics, loss landscape geometry, and generalization guarantees in overparameterized networks.
-- **AI for Science & Scientific Machine Learning**
-  - Physics-Informed Neural Networks (PINNs), Neural Operators, and deep numerical solvers for high-dimensional partial differential equations (PDEs).
+- Artificial Intelligence (AI)
+- Deep Learning (DL)
+- Large Language Models (LLMs)
 
 ---
 
